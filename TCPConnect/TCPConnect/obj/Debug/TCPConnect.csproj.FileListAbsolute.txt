@@ -1,0 +1,9 @@
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\bin\Debug\TCPConnect.exe.config
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\bin\Debug\TCPConnect.exe
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\bin\Debug\TCPConnect.pdb
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\obj\Debug\TCPConnect.csprojResolveAssemblyReference.cache
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\obj\Debug\TCPConnect.Form1.resources
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\obj\Debug\TCPConnect.Properties.Resources.resources
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\obj\Debug\TCPConnect.csproj.GenerateResource.Cache
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\obj\Debug\TCPConnect.exe
+C:\Dropzone\gym\tcpconnect\TCPConnect\TCPConnect\obj\Debug\TCPConnect.pdb
